@@ -1,0 +1,17 @@
+{
+  "author": "yozgatsi",
+  "bugs": {
+    "url": "https://github.com/dms3-fs/go-idx-config"
+  },
+  "dms3gx": {
+    "dvcsimport": "github.com/dms3-fs/go-idx-config"
+  },
+  "dms3gxDependencies": [
+  ],
+  "dms3gxVersion": "0.12.1",
+  "language": "go",
+  "license": "",
+  "name": "go-dms3-idx-config",
+  "releaseCmd": "git commit -a -m \"dms3gx publish $VERSION\"",
+  "version": "0.2.5"
+}
